@@ -5,8 +5,9 @@
 </div>
 <h1 align="center">Меня зовут Жанна👋</h1>
 
-
+<div id="typer" align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
+</div>
 
 <div id="contacts" align="center">
 	<a href="https://t.me/BonaaFidess" tagret="_blank">
