@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, Меня зовут Жанна 👋 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 ### Я frontend-разработчик с огромной любовью к Web индустрии. 
 ###### Обладаю аналитическим мышлением и стремлением к развитию.
@@ -18,5 +18,7 @@
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-
+<a href="https://t.me/BonaaFidess" rel="nofollow">
+<img src="https://camo.githubusercontent.com/886e5fefc398a0ef443fae9dad33249eaaf9f6ec04846bc8bd672340aa66dc76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d626c7565" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;labelColor=blue" style="max-width: 100%;">
+</a>
 
