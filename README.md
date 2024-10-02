@@ -1,9 +1,9 @@
 
 
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTl5NzR2b2dqazQ1YTlrZ2ppcXd4dnBkYWk2ZnpqNDdwM3RxbXpveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width=100/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU3YzVvYW5qbGx2aWV4dDl2dTJwZDJhc3ZvNm1wdXhhbjVjNXJmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" width=100/>
 </div>
-<h1 align="center"> Hi there, Меня зовут Жанна 👋></h1>
+<h1 align="center"> Hi there, Меня зовут Жанна👋</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
