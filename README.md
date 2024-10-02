@@ -3,11 +3,22 @@
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU3YzVvYW5qbGx2aWV4dDl2dTJwZDJhc3ZvNm1wdXhhbjVjNXJmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" width=100/>
 </div>
-<h1 align="center"> Hi there, Меня зовут Жанна👋</h1>
+<h1 align="center">Меня зовут Жанна👋</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
 
+<div id="contacts">
+	<a href="https://t.me/BonaaFidess">
+	 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+	</a>
+	<a href="https://vk.com/id15426643">
+  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VKe Badge"/>
+</a>
+<a href="mailto:agupova.j@gmail.com">
+  <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="mail Badge"/>
+</a>
+</div>
 
 ### Я frontend-разработчик с огромной любовью к Web индустрии. 
 ###### Обладаю аналитическим мышлением и стремлением к развитию.
