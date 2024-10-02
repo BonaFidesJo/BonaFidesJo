@@ -9,13 +9,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
 
 <div id="contacts">
-	<a href="https://t.me/BonaaFidess">
+	<a href="https://t.me/BonaaFidess" tagret="_blank">
 	 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 	</a>
-	<a href="https://vk.com/id15426643">
+	<a href="https://vk.com/id15426643" tagret="_blank">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VKe Badge"/>
 </a>
-<a href="mailto:agupova.j@gmail.com">
+<a href="mailto:agupova.j@gmail.com" tagret="_blank">
   <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="mail Badge"/>
 </a>
 </div>
