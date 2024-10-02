@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there, Меня зовут Жанна 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg) </h1>
+<h1 align="center"> Hi there, Меня зовут Жанна 👋 </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000&lines=Frontend+developer)](https://git.io/typing-svg)
 
 
 ### Я frontend-разработчик с огромной любовью к Web индустрии. 
