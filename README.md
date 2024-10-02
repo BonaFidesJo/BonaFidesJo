@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
 
-<div id="contacts">
+<div id="contacts" align="center">
 	<a href="https://t.me/BonaaFidess" tagret="_blank">
 	 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 	</a>
@@ -19,6 +19,11 @@
   <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="mail Badge"/>
 </a>
 </div>
+
+<div id="count" align="center">
+<img src="https://komarev.com/ghpvc/?username=BonaFidesJo&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 ### Я frontend-разработчик с огромной любовью к Web индустрии. 
 ###### Обладаю аналитическим мышлением и стремлением к развитию.
